@@ -1,3 +1,8 @@
 <!--A principal diferença entre bibliotecas e frameworks é que as bibliotecas são usadas para realizar tarefas específicas, enquanto os frameworks fornecem uma estrutura para o desenvolvimento de um projeto completo. As bibliotecas são usadas como ferramentas para ajudar a construir o projeto, enquanto os frameworks são usados como um esqueleto para o projeto.
 
-Outra diferença importante é que as bibliotecas são geralmente mais fáceis de aprender e usar, enquanto os frameworks podem ser mais complexos e exigem mais conhecimento de programação. As bibliotecas são projetadas para serem flexíveis e personalizáveis, enquanto os frameworks têm regras rígidas que os desenvolvedores devem seguir. -->
+Outra diferença importante é que as bibliotecas são geralmente mais fáceis de aprender e usar, enquanto os frameworks podem ser mais complexos e exigem mais conhecimento de programação. As bibliotecas são projetadas para serem flexíveis e personalizáveis, enquanto os frameworks têm regras rígidas que os desenvolvedores devem seguir.
+
+
+Fontes: DIO digital inovvation one
+
+ -->
